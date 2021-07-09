@@ -1,0 +1,6 @@
+# x=open('demo.txt',"r")
+# print(x.read())
+# print(x.readline())
+x=open('demo.txt',"w")
+x.write("Thankyou for keeping your trust on us....")
+x.close()

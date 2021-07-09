@@ -1,0 +1,5 @@
+d=int(input("Enter the decimal value: "))
+# print(int(d))
+# print(bin(d))
+# print(oct(d))
+print(hex(d))
